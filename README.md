@@ -41,7 +41,8 @@ Ipl data 2008 - 2025 [click to view](https://github.com/balagavamsikrishna18/IPL
 ## Process
 - Cleaned and validated the dataset for missing values and incorrect formatting.
 - Get data in to power bi 
-- Make Relationship with each tables by useing modeling in power bi  
+- Make Relationship with each tables by useing modeling in power bi
+- Use new card visualizaction for 
 ## DAX Used for 
 - Orange cap Holder Name 
 - Total Runs Scored in Season 
