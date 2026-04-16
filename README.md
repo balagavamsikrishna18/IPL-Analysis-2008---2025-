@@ -17,22 +17,22 @@ Ipl data 2008 - 2025 [click to view](https://github.com/balagavamsikrishna18/IPL
 - Total Venues Used in each Season
 
 ## Visualzations (Season Stat's)
-## Orange cap Stats 
+**Orange cap Stats**
 - Orange cap Holder Name 
 - Total Runs Scored in Season 
 - Team Name the player epesented 
 - Player Image dynamically rendered
-## Purpple cap Stats 
+**Purpple cap Stats** 
 - Purpple cap Holder Name 
 - Total wickets taken  in Season 
 - Team Name the player epesented 
 - Player Image dynamically rendered
-## Total Fours in Season 
+**Total Fours in Season**
 - Player Name 
 - Number of Foures In Season
 - Team Name the player epesented 
 - Player Image dynamically rendered
-## Total Sixers in Season 
+**Total Sixers in Season**
 - Player Name 
 - Number of Foures In Season
 - Team Name the player epesented 
