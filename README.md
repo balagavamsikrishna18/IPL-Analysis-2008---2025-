@@ -100,3 +100,8 @@ Ipl data 2008 - 2025 [click to view](https://github.com/balagavamsikrishna18/IPL
 The  overall ipl analysis 2008 -2025 the best seson is **2025** not good sesson is **2009**.
 Best team (overall success)  **Mumbai Indian** Most consistent team  **Chennai Super Kings**.
 Batsmen **Virat Kohli** Highest run-scorer in IPL historyConsistent across seasons Known for chasing and big innings.
+
+
+## Dashboard Preview
+- Dashboard Interaction: [click to view](https://github.com/balagavamsikrishna18/IPL-Analysis-2008---2025-/blob/main/ipl%20dashboard%20%20recording.mp4)
+- Dashboard Interaction Video: [click to view](https://github.com/balagavamsikrishna18/IPL-Analysis-2008---2025-/blob/main/Capture%20ipl%20dash%20board.JPG)
