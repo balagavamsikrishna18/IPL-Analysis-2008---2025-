@@ -82,6 +82,8 @@ Ipl data 2008 - 2025 [click to view](https://github.com/balagavamsikrishna18/IPL
 - The most winnigs teams is **MI** in season is **2013**,**2015**,**2017**,**2019**,**2020**  and **CSK** in seasons is **2010**,**       2011**, **2018**,**2021**,**2023**
 - Best team (overall success)  Mumbai Indians
 - Most consistent team  Chennai Super Kings
+
+  
 **Players Insights**
 - Most Runs runs getter **Virat kholi** in season of  **2016** with runs is **973** in   **RCB** team
 - Most Wicket taken in by **HV Patal** in seson of **2021** with wickets is **35** in  **RCB**team
