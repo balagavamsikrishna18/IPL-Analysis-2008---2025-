@@ -77,6 +77,20 @@ Ipl data 2008 - 2025 [click to view](https://github.com/balagavamsikrishna18/IPL
 - Most fifty's in season of **2025** with coount of **143**
 - lowest fifty's season of **2009** with count of **70**
 - The maximum venues in **2025** having venues is **14**
-- The minimum venues in **2009** having venues is **8**
-- 
-
+- The minimum venues in **2009** having venues is **8**   
+ **Teams  Insights**
+- The most winnigs teams is **MI** in season is **2013**,**2015**,**2017**,**2019**,**2020**  and **CSK** in seasons is **2010**,**       2011**, **2018**,**2021**,**2023**
+- Best team (overall success)  Mumbai Indians
+- Most consistent team  Chennai Super Kings
+**Players Insights**
+- Most Runs runs getter **Virat kholi** in season of  **2016** with runs is **973** in   **RCB** team
+- Most Wicket taken in by **HV Patal** in seson of **2021** with wickets is **35** in  **RCB**team
+- Maximum Fixers in season fo **2012** played by **CH Gayle** with count of **59** in **RCB**  team
+- Maximum Foures in season of **2025** played by **B.Sai Sudharsah** with count of **88** in **GT** team
+   and **2016** played by **DA Warhher** with count of **88** in **SRH** team 
+  
+   
+## Final ConclusionTop IPL Batsmen
+The  overall ipl analysis 2008 -2025 the best seson is **2025** not good sesson is **2009**.
+Best team (overall success)  **Mumbai Indian** Most consistent team  **Chennai Super Kings**.
+Batsmen **Virat Kohli** Highest run-scorer in IPL historyConsistent across seasons Known for chasing and big innings.
