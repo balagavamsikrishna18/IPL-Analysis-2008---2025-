@@ -81,6 +81,7 @@ Ipl data 2008 - 2025 [click to view](https://github.com/balagavamsikrishna18/IPL
 - lowest fifty's season of **2009** with count of **70**
 - The maximum venues in **2025** having venues is **14**
 - The minimum venues in **2009** having venues is **8**
+  
 **Teams  Insights**
 - The most winnigs teams is **MI** in season is **2013**,**2015**,**2017**,**2019**,**2020**  and **CSK** in seasons is **2010**,**       2011**, **2018**,**2021**,**2023**
 - Best team (overall success)  Mumbai Indians
